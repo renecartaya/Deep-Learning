@@ -1,2 +1,7 @@
 # Deep-Learning
-Set of Neural Networks examples.
+
+Neural network developed in python.
+
+# Requirements
+
+Tensorsflow
